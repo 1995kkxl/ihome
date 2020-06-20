@@ -19,3 +19,4 @@ WARNING demo.py:15 warn info
 INFO demo.py:16 info info
 DEBUG demo.py:17 debug info
 INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 17:54:01] "[37mGET /api/v1.0/index HTTP/1.1[0m" 200 -
+ERROR __init__.py:98 Error: Directory migrations already exists and is not empty
